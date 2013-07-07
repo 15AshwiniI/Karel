@@ -1,10 +1,8 @@
-
 // Four 4 square high walls that karel has to jump over in order to find and pick up the beeper at the end
 
 KarelWorld
 Streets 8
 Avenues 8
-
 
 // The y, the x, the number of beepers
 beepers 1 7 1
