@@ -1,11 +1,13 @@
+// A box shaped obstacle that Karel has to jump over in order to get the beeper at the end
+
 KarelWorld
 Streets 8
 Avenues 8
 
-//the y, the x, the number of beepers
+// The y, the x, the number of beepers
 beepers 2 7 1
 
-//starts after y, before x, ends after last street
+// Starts after y, before x, ends after last street
  
 eastwestwalls   6 3 6
 northsouthwalls 2 3 6
@@ -16,4 +18,4 @@ northsouthwalls 7 2 7
 eastwestwalls   7 2 7
 eastwestwalls   1 3 7
 
-//starts after x, ends before y, street that you cross over
+// Starts after x, ends before y, street that you cross over
