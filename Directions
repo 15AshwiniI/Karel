@@ -1,0 +1,10 @@
+Download Karel from http://www.csis.pace.edu/~bergin/KarelJava2ed/downloads.html
+
+Install BlueJ from website: www.bluej.org
+
+Get karelmain.java example program from http://kbucaria.com/html/java/KarelMain.java
+-adjust Ur_robot to UrRobot.
+
+Then follow Simulatoruserguide.pdf for getting Karel to work with BlueJ
+
+Then insert karelmain.java code into new Karel project in BlueJ and run it.
