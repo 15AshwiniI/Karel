@@ -1,8 +1,10 @@
+// A clutter of beepers that karel must be programmed to pick up
+
 KarelWorld
 Streets 8
 Avenues 8
 
-//the y, the x, the number of beepers
+// The y, the x, the number of beepers
 beepers 3 4 1
 beepers 4 2 1
 beepers 2 3 2
