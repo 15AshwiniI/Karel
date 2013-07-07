@@ -2,14 +2,12 @@ KarelWorld
 Streets 8
 Avenues 8
 
-//the y, the x, the number of beepers
+// The y, the x, the number of beepers
 beepers 3 4 1
 beepers 4 2 1
 
-//starts after y, before x, ends after last street
+// Starts after y, before x, ends after last street
 eastwestwalls 6 2 5
  
-
-
-//starts after x, ends before y, street that you cross over
+// Starts after x, ends before y, street that you cross over
 northsouthwalls 6 5 7
